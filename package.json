@@ -1,0 +1,23 @@
+{
+  "name": "iptohost",
+  "version": "1.0.0",
+  "description": "Used to take a single ip or file with ip addresses and get their associated hostname(s).",
+  "main": "ipToHost.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "jsdoc": "^3.4.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l50/ipToHost.git"
+  },
+  "bin" : { "ipToHost" : "./ipToHost.js" },
+  "author": "Jayson Grace <jayson.e.grace@gmail.com> (https://techvomit.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/l50/ipToHost/issues"
+  },
+  "homepage": "https://github.com/l50/ipToHost#readme"
+}
